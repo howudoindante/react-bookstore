@@ -17,4 +17,6 @@ Watch the full version [Demo](https://marcusblanco.github.io/react-bookstore/)
 - [ ] TODO: 
     - [ ] :iphone: Adapt to phones :iphone:
     - [ ] :hammer: Change sort icons :wrench:
+    - [ ] :hear_no_evil: Remove one book from cart 
+    - [ ] :pray: Add total price and count of a group of identical books in the cart
     
